@@ -1,0 +1,15 @@
+{
+  "name": "package-receiver",
+  "version": "1.0.0",
+  "description": "Tjhis will receive the package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm-modules-as-packages": "^1.0.1"
+  }
+}

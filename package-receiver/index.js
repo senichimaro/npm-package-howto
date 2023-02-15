@@ -1,0 +1,1 @@
+require('npm-modules-as-packages').printMsg()
